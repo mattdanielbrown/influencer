@@ -1,6 +1,6 @@
 # Influencer Free Bootstrap Single Book Template
 
-![influencer](https://demo.themefisher.com/thumbnails/influencer.png)
+![influencer](https://assets.teamosis.com/thumbs/influencer.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/influencer/)
 
